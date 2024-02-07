@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @1fred2
-- 👀 I’m interested in .share everything that l know ..
-- 🌱 I’m currently learning .programing..
+- 👀 I’m interested in .partilhar everything that l know ..
+- 🌱 I’m currently learning .programação..
 - 💞️ I’m looking to collaborate on .github.
 - 📫 How to reach me ...
 - 😄 Pronouns: .l..
